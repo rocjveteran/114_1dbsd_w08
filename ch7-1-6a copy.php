@@ -1,3 +1,6 @@
+<h1>SID:C112181108<br>
+NAME:UxxxP</h1>
+<p>
 <?php 
 define("ANIMALS",[
 "狗",
